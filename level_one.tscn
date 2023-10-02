@@ -6,7 +6,7 @@
 [node name="LevelOne" type="Node2D"]
 
 [node name="Player" type="CharacterBody2D" parent="."]
-position = Vector2(237, 245)
+position = Vector2(249, 250)
 motion_mode = 1
 script = ExtResource("1_rfnfv")
 metadata/_edit_group_ = true
